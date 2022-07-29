@@ -109,6 +109,16 @@
         "zany"
       ],
       "id": "10"
+    },
+    {
+      "name": "Howard",
+      "species": "The Duck",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
